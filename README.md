@@ -60,6 +60,12 @@
 
 之后，data_reduction
 
+之后，data_zsore
+
+之后，dv_custype_clusters_hist
+
+之后，dv_custype_features_radar
+
 ## 阶段总结
 ### 第一阶段
 
@@ -81,3 +87,6 @@
    5.列表推导式
 ```
 
+### 第二阶段
+
+建模分析 -> 数据可视化
